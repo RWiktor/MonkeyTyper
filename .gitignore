@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE settings
+.idea/
+.vscode/
+
+# User-specific files
+save
+highscore
+
+# OS-specific files
+.DS_Store
+Thumbs.db
